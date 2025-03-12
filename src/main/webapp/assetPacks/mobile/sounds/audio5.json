@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "audio5.m4a",
+    "audio5.mp3",
+    "audio5.ogg"
+  ],
+  "sprite": {
+    "WinInstant": [
+      0,
+      2458.344671201814
+    ],
+    "ButtonBetMax": [
+      3050,
+      855.5328798185942
+    ]
+  }
+}

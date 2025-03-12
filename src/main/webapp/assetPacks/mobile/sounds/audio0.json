@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "audio0.m4a",
+    "audio0.mp3",
+    "audio0.ogg"
+  ],
+  "sprite": {
+    "BaseMusicLoop": [
+      0,
+      40000
+    ],
+    "BaseMusicLoopTermLose": [
+      40050,
+      3500
+    ],
+    "BaseMusicLoopTermWin": [
+      44099.99999999999,
+      6531.473922902493
+    ]
+  }
+}

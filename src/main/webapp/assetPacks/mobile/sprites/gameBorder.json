@@ -1,0 +1,28 @@
+{"frames": {
+
+"gameBorder.png":
+{
+	"frame": {"x":603,"y":1,"w":960,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":600},
+	"sourceSize": {"w":960,"h":600}
+},
+"gameBorder_p.png":
+{
+	"frame": {"x":1,"y":1,"w":600,"h":960},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":960},
+	"sourceSize": {"w":600,"h":960}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gameBorder.png",
+	"format": "RGBA8888",
+	"size": {"w":1564,"h":962},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e7b4ce7160a12c1ce3adfcb0cd3a325f:a33127f6170bce5b4d862cd074b7d32b:9321fd082e9318d0e52ca3e171519f8b$"
+}
+}

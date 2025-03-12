@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "audio1.m4a",
+    "audio1.mp3",
+    "audio1.ogg"
+  ],
+  "sprite": {
+    "ButtonBetDown": [
+      0,
+      238.59410430839
+    ],
+    "Reveal1": [
+      1050,
+      816.1678004535149
+    ],
+    "HelpPageOpen": [
+      2100,
+      1919.7732426303858
+    ]
+  }
+}
